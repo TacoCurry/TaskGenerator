@@ -13,3 +13,5 @@ This program generate tasks by given utilization and total memory usage
 생성된 태스크셋에 대한 정보가 task_generated.txt로 출력된다.
 
 ## Demo
+Task Generator Demo: util = 50 인 태스크 100개 생성 결과
+https://youtu.be/XJMImfe-JPs
